@@ -23,6 +23,9 @@ int main (void)
 
   printf("The circle has an area equal to %f and a perimeter equal to %f\n", area, perimeter);
 
+    scanf("%f", &radius);
+
+
   return 0;
 
 }
